@@ -15,7 +15,7 @@ This function pack is an editable raycasting template. It allows you to run your
     - Commands in this file will run when there are no blocks or entities in target's line of sight & ray limit is reached. Using `@s` here will execute as the caster (target from whose sight the ray is being cast)
 - `functions > raycast > on_hit > block.mcfuntion`
     - Commands in this file will run when target is looking at a block. Using `@s` here will execute as the caster (target from whose sight the ray is being cast)
-`functions > raycast > on_hit > entity.mcfuntion`
+- `functions > raycast > on_hit > entity.mcfuntion`
     - Commands in this file will run when target is looking at an entity. Using `@s` here will execute as the entity who was looked at, not the caster.
 
 ## Additional Files
