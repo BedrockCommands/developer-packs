@@ -1,13 +1,33 @@
+### Contributors
+- [MajestikButter](https://github.com/MajestikButter/)
+
+### Table Of Content
+- Description
+- Commands
+    - Objectives
+    - Usage
+- Files
+    - Editable Files
+    - Additional Files
+- Pack Downloads
+
 # Description
 
 This function pack is an editable raycasting template. It allows you to run your desired commands when your targets look at entities, blocks or specific block faces.
 
-# Usage Commands
+# Commands
+
+## Objectives
 
 - `/scoreboard objectives add rayLimit dummy`
     - This objective will be used to adjust how far you want the ray to travel from target's eyes.
+
+## Usage
+
 - `/execute as <target> run function raycast/cast`
     - Initiate raycast from desired target.
+
+# Files
 
 ## Editable Files
 
@@ -19,6 +39,7 @@ This function pack is an editable raycasting template. It allows you to run your
     - Commands in this file will run when target is looking at an entity. Using `@s` here will execute as the entity who was looked at, not the caster.
 
 ## Additional Files
+
 - `on_hit/block_face`
 - `on_hit/block_face/north`
 - `on_hit/block_face/south`
@@ -29,12 +50,7 @@ This function pack is an editable raycasting template. It allows you to run your
 
 Commands in these files will run when target is looking at any specific face of a block. Using `@s` here will execute as the caster (target from whose sight the ray is being cast)
 
-# Pack Download
-- **Without Additional Files:** <https://www.mediafire.com/file/2reow8ljg593csg/Raycasting+[F].mcpack/file>
+# Pack Downloads
 
-- **With Additional Files:** <https://www.mediafire.com/file/mg5j6vd502h1fd2/Advanced+Raycasting+[F].mcpack/file>
-
-# Creator
-
-@|| MajestikButter ||#3362
-https://github.com/MajestikButter/
+- [**Download Basic:** Without Additional Files](https://www.mediafire.com/file/2reow8ljg593csg/Raycasting+[F].mcpack/file)
+- [**Download Advanced:** With Additional Files](https://www.mediafire.com/file/mg5j6vd502h1fd2/Advanced+Raycasting+[F].mcpack/file)
