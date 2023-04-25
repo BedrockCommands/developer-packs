@@ -26,6 +26,7 @@ This function pack is an editable raycasting template. It allows you to run your
 - `on_hit/block_face/west`
 - `on_hit/block_face/up`
 - `on_hit/block_face/down`
+
 Commands in these files will run when target is looking at any specific face of a block. Using `@s` here will execute as the caster (target from whose sight the ray is being cast)
 
 # Pack Download
