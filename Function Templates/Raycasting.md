@@ -9,7 +9,7 @@
 - Files
     - Editable Files
     - Additional Files
-- Pack Downloads
+- Downloads
 
 # Description
 
@@ -50,7 +50,7 @@ This function pack is an editable raycasting template. It allows you to run your
 
 Commands in these files will run when target is looking at any specific face of a block. Using `@s` here will execute as the caster (target from whose sight the ray is being cast)
 
-# Pack Downloads
+# Downloads
 
 - [**Download Basic:** Without Additional Files](https://www.mediafire.com/file/2reow8ljg593csg/Raycasting+[F].mcpack/file)
 - [**Download Advanced:** With Additional Files](https://www.mediafire.com/file/mg5j6vd502h1fd2/Advanced+Raycasting+[F].mcpack/file)
