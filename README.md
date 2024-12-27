@@ -8,7 +8,7 @@ If you wish to contribute to this repository you may create a pull request or si
 
 ## LICENSE
 
-All the works in this repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** with the following terms and clarifications:  
+All the works in this repository are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** with the following terms and clarifications:  
 
 ### **You are free to:**
 1. **Share**: Copy and redistribute the material in any medium or format.  
